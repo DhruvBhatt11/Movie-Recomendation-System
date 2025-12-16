@@ -1,0 +1,16 @@
+movie-recommender/
+│
+├── src/
+│   ├── data_loader.py
+│   ├── recommender.py
+│   ├── utils.py
+│   └── main.py
+│
+├── tests/
+│   ├── test_data_loading.py
+│   └── test_recommender.py
+│
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
